@@ -16,5 +16,6 @@ namespace TFS_Test
         {
             InitializeComponent();
         }
+		int x=10;
     }
 }
