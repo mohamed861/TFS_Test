@@ -15,6 +15,7 @@ namespace TFS_Test
         public Form1()
         {
             InitializeComponent();
+int y=5;
         }
     }
 }
